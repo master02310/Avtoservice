@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4VPNneISpQltaVKuxqGsIfXd47xTW3zPuhClfGdbOzn6mv39DWkEfXfKMjFmM3kt3iuT6msSifnwQVBo0Gn4Iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Даниил\\source\\repos\\Avto\\Avto\\Avto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Даниил\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
