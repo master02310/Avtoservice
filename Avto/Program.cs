@@ -1,4 +1,4 @@
-﻿namespace Avto
+﻿namespace Avtopark
 {
     using System;
 
@@ -12,6 +12,8 @@
         /// </summary>
         private static void Main(string[] args)
         {
+            var starter = new Starter();
+            starter.Run();
         }
     }
 }

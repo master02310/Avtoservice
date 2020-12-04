@@ -2,3 +2,12 @@ C:\Users\Даниил\source\repos\Avto\Avto\bin\Debug\netcoreapp3.1\Avto.exe
 C:\Users\Даниил\source\repos\Avto\Avto\obj\Debug\netcoreapp3.1\Avto.csprojAssemblyReference.cache
 C:\Users\Даниил\source\repos\Avto\Avto\obj\Debug\netcoreapp3.1\Avto.AssemblyInfoInputs.cache
 C:\Users\Даниил\source\repos\Avto\Avto\obj\Debug\netcoreapp3.1\Avto.AssemblyInfo.cs
+C:\Users\Даниил\source\repos\Avto\Avto\obj\Debug\netcoreapp3.1\Avto.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\source\repos\Avto\Avto\bin\Debug\netcoreapp3.1\Avto.deps.json
+C:\Users\Даниил\source\repos\Avto\Avto\bin\Debug\netcoreapp3.1\Avto.runtimeconfig.json
+C:\Users\Даниил\source\repos\Avto\Avto\bin\Debug\netcoreapp3.1\Avto.runtimeconfig.dev.json
+C:\Users\Даниил\source\repos\Avto\Avto\bin\Debug\netcoreapp3.1\Avto.dll
+C:\Users\Даниил\source\repos\Avto\Avto\bin\Debug\netcoreapp3.1\Avto.pdb
+C:\Users\Даниил\source\repos\Avto\Avto\obj\Debug\netcoreapp3.1\Avto.dll
+C:\Users\Даниил\source\repos\Avto\Avto\obj\Debug\netcoreapp3.1\Avto.pdb
+C:\Users\Даниил\source\repos\Avto\Avto\obj\Debug\netcoreapp3.1\Avto.genruntimeconfig.cache

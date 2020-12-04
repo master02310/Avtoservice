@@ -1,4 +1,4 @@
-﻿namespace Avto.Models.Grocary
+﻿namespace Avtopark
 {
     using System;
     using System.Collections.Generic;
@@ -20,11 +20,6 @@
         string Classification { get; }
 
         /// <summary>
-        /// Gets engine of car.
-        /// </summary>
-        string Engine { get; }
-
-        /// <summary>
         /// Gets color of car.
         /// </summary>
         string Color { get; }
@@ -33,5 +28,10 @@
         /// Gets price of car.
         /// </summary>
         double Price { get; }
+
+        /// <summary>
+        /// Gets fuel consumption of car.
+        /// </summary>
+        double FuelConsumption { get; }
     }
 }
